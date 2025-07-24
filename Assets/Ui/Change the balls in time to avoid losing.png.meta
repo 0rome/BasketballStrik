@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: b37b6ff559469a24bbefb53ceb627350
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8976031556017323787
+    second: Change the balls in time to avoid losing_0
+  - first:
+      213: 6416569680829662553
+    second: Change the balls in time to avoid losing_1
+  - first:
+      213: 8858733430053802471
+    second: Change the balls in time to avoid losing_2
+  - first:
+      213: 2629318568271261338
+    second: Change the balls in time to avoid losing_3
+  - first:
+      213: 6331580212137714614
+    second: Change the balls in time to avoid losing_4
+  - first:
+      213: -2853435531396979336
+    second: Change the balls in time to avoid losing_5
+  - first:
+      213: -1603838552114140678
+    second: Change the balls in time to avoid losing_6
+  - first:
+      213: 9010718923624336740
+    second: Change the balls in time to avoid losing_7
+  - first:
+      213: 7712294569976287312
+    second: Change the balls in time to avoid losing_8
+  - first:
+      213: 8552452787074431313
+    second: Change the balls in time to avoid losing_9
+  - first:
+      213: 4714451591883614535
+    second: Change the balls in time to avoid losing_10
+  - first:
+      213: 3621404089809522786
+    second: Change the balls in time to avoid losing_11
+  - first:
+      213: 8441613070270122030
+    second: Change the balls in time to avoid losing_12
+  - first:
+      213: -5489356587852629990
+    second: Change the balls in time to avoid losing_13
+  - first:
+      213: 1347536239411606005
+    second: Change the balls in time to avoid losing_14
+  - first:
+      213: 5634716608216582710
+    second: Change the balls in time to avoid losing_15
+  - first:
+      213: -50077896777137207
+    second: Change the balls in time to avoid losing_16
+  - first:
+      213: -8202083618651661845
+    second: Change the balls in time to avoid losing_17
+  - first:
+      213: 4204588433504852524
+    second: Change the balls in time to avoid losing_18
+  - first:
+      213: 8294262323956474641
+    second: Change the balls in time to avoid losing_19
+  - first:
+      213: -2680834217977009455
+    second: Change the balls in time to avoid losing_20
+  - first:
+      213: 7300527452881898450
+    second: Change the balls in time to avoid losing_21
+  - first:
+      213: 2183860616179432681
+    second: Change the balls in time to avoid losing_22
+  - first:
+      213: 3430383300970437254
+    second: Change the balls in time to avoid losing_23
+  - first:
+      213: 1890605385562265744
+    second: Change the balls in time to avoid losing_24
+  - first:
+      213: 7281758285028907971
+    second: Change the balls in time to avoid losing_25
+  - first:
+      213: -2241699307712136739
+    second: Change the balls in time to avoid losing_26
+  - first:
+      213: 2971329229404819943
+    second: Change the balls in time to avoid losing_27
+  - first:
+      213: -4974891910473859060
+    second: Change the balls in time to avoid losing_28
+  - first:
+      213: -3227705885298678111
+    second: Change the balls in time to avoid losing_29
+  - first:
+      213: 4195275140867859730
+    second: Change the balls in time to avoid losing_30
+  - first:
+      213: 4892081226251775476
+    second: Change the balls in time to avoid losing_31
+  - first:
+      213: -6863752388233067897
+    second: Change the balls in time to avoid losing_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change the balls in time to avoid losing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 278
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b412bdee22391845bfe47c0497cf8c9
+      internalID: -1259660890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 48c7ad68c61a4304abbdd4f38dcc6020
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Change the balls in time to avoid losing_0: -1259660890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
