@@ -1,0 +1,6 @@
+![screen_1](https://github.com/0rome/BasketballStrik/blob/main/screen_1_2025-11-17_14-25-37.png?raw=true)
+![screen_2](https://github.com/0rome/BasketballStrik/blob/main/screen_2_2025-11-17_14-25-37.png?raw=true)
+![screen_3](https://github.com/0rome/BasketballStrik/blob/main/screen_3_2025-11-17_14-25-37.png?raw=true)
+![screen_4](https://github.com/0rome/BasketballStrik/blob/main/screen_4_2025-11-17_14-25-37.png?raw=true)
+![screen_5](https://github.com/0rome/BasketballStrik/blob/main/screen_5_2025-11-17_14-25-37.png?raw=true)
+![screen_6](https://github.com/0rome/BasketballStrik/blob/main/screen_6_2025-11-17_14-25-37.png?raw=true)
